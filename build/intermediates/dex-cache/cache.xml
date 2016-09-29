@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_df50d53f7e076debdc0b8cacb2cddd4dd03f3714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ccd0cb38055dd20e33a287e006b2760ecb86f27">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_22f100d40181c2d429966bc96308d72efd8ce3ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_3d519faaf37a6eac58ba2d0d637348cca1dabc3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_e6e65e76bed078ff1691259a87486163c22d9119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_7187fb4f223433d3662236007ebfb4b910c5c2e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37d8c7efaa86c5f3dea9c7f4fc829f9110e7931e">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9ead8fcb903d996b6d385a992261ceb49a8455e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_7a53b96cbee104578d6d77463c2f777f615fa58d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/ef266d93357210b530c5b400e3d40de64fd86a0d/parse-android-1.13.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef266d93357210b530c5b400e3d40de64fd86a0d">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.1_861b895dd9a28bf267938fbe17c92c7b2e7affb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_e0e64a6531f211a155b0e595df6a37955273ae21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_1ee6bf7c111738e3e1528e1284a96ee811d3781a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.0_a35d024de75307da8a99113f6a037ed76b90cb14/classes.dex" />
+    </item>
+
+</items>

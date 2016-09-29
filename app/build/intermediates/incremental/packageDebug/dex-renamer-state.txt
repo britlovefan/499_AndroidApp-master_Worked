@@ -1,0 +1,7 @@
+#Thu Sep 29 10:54:09 CDT 2016
+base.0=/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9ead8fcb903d996b6d385a992261ceb49a8455e9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_22f100d40181c2d429966bc96308d72efd8ce3ec/classes.dex
+base.1=/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_22f100d40181c2d429966bc96308d72efd8ce3ec
+file.0=/Users/dauphin/Dropbox/Internship/adherence/android/499_AndroidApp-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9ead8fcb903d996b6d385a992261ceb49a8455e9/classes.dex
